@@ -1,0 +1,6 @@
+Mayor,mayor,player,cooperative,llava:7b
+Other cities,other_cities,player,cooperative,llava:7b
+Local Labour Union,union,player,cooperative,llava:7b
+SportCo,SportCo,p1,greedy,llava:7b
+Department of Tourism,DoT,p2,greedy,llava:7b
+Environmental League,enviroment,player,greedy,llava:7b

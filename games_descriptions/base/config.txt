@@ -1,0 +1,6 @@
+Mayor,mayor,player,cooperative,exaone-deep-32b
+Other cities,other_cities,player,cooperative,exaone-deep-32b
+Local Labour Union,union,player,cooperative,exaone-deep-32b
+SportCo,SportCo,p1,cooperative,exaone-deep-32b
+Department of Tourism,DoT,p2,cooperative,exaone-deep-32b
+Environmental League,enviroment,player,cooperative,exaone-deep-32b

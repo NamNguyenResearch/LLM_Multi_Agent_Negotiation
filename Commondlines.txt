@@ -1,0 +1,21 @@
+python main.py --exp_name qwen3_8b_model --game_dir ./games_descriptions/base --rounds_num 24 --agents_num 6 --issues_num 5 --api_key ollama-local   
+
+python main.py --exp_name llava_7b_model --game_dir ./games_descriptions/base --rounds_num 24 --agents_num 6 --issues_num 5 --api_key ollama-local 
+
+python main.py --exp_name llama3_2_3b_model --game_dir ./games_descriptions/base --rounds_num 24 --agents_num 6 --issues_num 5 --api_key ollama-local 
+
+python main.py --exp_name llama3_1_8b_model --game_dir ./games_descriptions/base --rounds_num 24 --agents_num 6 --issues_num 5 --api_key ollama-local
+
+python main.py --exp_name llama_3_3_70b_model --game_dir ./games_descriptions/base --rounds_num 24 --agents_num 6 --issues_num 5 --api_key TOGETHER_API_KEY
+
+============================================================
+
+python main.py --exp_name llama3_1_8b_model_cooperative --game_dir ./games_descriptions/base --rounds_num 24 --agents_num 6 --issues_num 5 --api_key ollama-local
+
+python main.py --exp_name qwen3_8b_model_cooperative --game_dir ./games_descriptions/base --rounds_num 24 --agents_num 6 --issues_num 5 --api_key ollama-local
+
+python main.py --exp_name llava_7b_model_cooperative --game_dir ./games_descriptions/base --rounds_num 24 --agents_num 6 --issues_num 5 --api_key ollama-local
+
+python main.py --exp_name llama_3_3_70b_model_cooperative --game_dir ./games_descriptions/base --rounds_num 24 --agents_num 6 --issues_num 5 --api_key TOGETHER_API_KEY
+
+python main.py --exp_name exaone_deep_32b_model_cooperative --game_dir ./games_descriptions/base --rounds_num 24 --agents_num 6 --issues_num 5 --api_key TOGETHER_API_KEY

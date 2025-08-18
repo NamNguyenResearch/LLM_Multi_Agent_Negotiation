@@ -1,0 +1,6 @@
+Mayor,mayor,player,cooperative,qwen3:8b
+Other cities,other_cities,player,cooperative,qwen3:8b
+Local Labour Union,union,player,cooperative,qwen3:8b
+SportCo,SportCo,p1,greedy,qwen3:8b
+Department of Tourism,DoT,p2,greedy,qwen3:8b
+Environmental League,enviroment,player,greedy,qwen3:8b

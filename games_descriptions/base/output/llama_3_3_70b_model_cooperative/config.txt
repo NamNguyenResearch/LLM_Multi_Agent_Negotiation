@@ -1,0 +1,6 @@
+Mayor,mayor,player,cooperative,meta-llama/Llama-3.3-70B-Instruct-Turbo-Free
+Other cities,other_cities,player,cooperative,meta-llama/Llama-3.3-70B-Instruct-Turbo-Free
+Local Labour Union,union,player,cooperative,meta-llama/Llama-3.3-70B-Instruct-Turbo-Free
+SportCo,SportCo,p1,cooperative,meta-llama/Llama-3.3-70B-Instruct-Turbo-Free
+Department of Tourism,DoT,p2,cooperative,meta-llama/Llama-3.3-70B-Instruct-Turbo-Free
+Environmental League,enviroment,player,cooperative,meta-llama/Llama-3.3-70B-Instruct-Turbo-Free
